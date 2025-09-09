@@ -1,7 +1,7 @@
 # :wave: Hi, I'm HyeonSeong
 
 ## :man_technologist: About Me
-- :mortar_board: [Computer Science / Seoul National University of science and technology / Admitted in 2024]  
+- :mortar_board: [Computer Engineering / Seoul National University of science and technology / Admitted in 2024]  
 - :seedling: Currently learning: Unity, Algorithms, AI
 - :dart: Interests: Game Development, Problem Solving
 - :sparkles: Goal: Publish a Game, Win an algorithm competition
@@ -15,8 +15,8 @@
 ---
 
 ## :bar_chart: GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WH6138&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH6138&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WH16138&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WH16138&layout=compact&theme=tokyonight)
 
 ---
 
