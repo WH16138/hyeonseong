@@ -21,8 +21,7 @@
 ---
 
 ## :earth_asia: Activity
-- :file_folder: Algorithm solutions: [Repository Link]  
-- :bulb: PLUM Algorithm Study notes: [Blog or Notion Link]
+- :file_folder: Algorithm solutions: [[Repository Link](https://github.com/WH16138/algo_collection.git)]
 
 ---
 
